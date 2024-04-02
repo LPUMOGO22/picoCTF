@@ -1,17 +1,20 @@
-# Welcome to MkDocs
+# Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+!!! tip "Importante"
 
-## Commands
+    Te sugiero leer está página antes de iniciar la guía. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## Bienvenida
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+¡Gracias por visitar nuestro sitio!
+
+El propósito de esta guía es recopilar el trabajo que se desarrolló a lo largo del taller de ciberseguridad del CIC. 
+
+No pretendemos que sea un curso exhaustivo en ningún sentido.
+
+## Introducción
+
+- ¿Qué es un reto CTF?
+
+    El término CTF viene del inglés "Capture The Flag", se refiere a  competiciones o ejercicios, que permiten poner en práctica habilidades de seguridad informática, mediante la simulación de ambientes con "vulnerabilidades" en los cuales encontraremos un mensaje que nos indica que hemos concluido la prueba con éxito, a dicho mensaje se le llama "Flag". 
